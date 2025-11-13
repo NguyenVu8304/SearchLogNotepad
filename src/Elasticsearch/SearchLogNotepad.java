@@ -22,7 +22,7 @@ public class SearchLogNotepad extends JFrame {
     private static final int MAX_PARALLEL_FILES = 10;
 
     public SearchLogNotepad() {
-        setTitle("Tìm kiếm log với Notepad Highlight");
+        setTitle("Tìm kiếm log với Notepad");
         setSize(900, 600);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new BorderLayout());
